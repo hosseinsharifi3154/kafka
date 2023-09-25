@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "npfadCjUA8vcRCmo0nvp/3zh5gCPgNzbIWey70Wu9+NaQ0i2Q4n2PnyJuTDapjGNKmxbpcuYBcbNfdVsheLmMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MMID\\source\\repos\\kafka\\kafka\\Kafka_Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MMID\\.nuget\\packages\\confluent.kafka\\2.2.0\\confluent.kafka.2.2.0.nupkg.sha512",
+    "C:\\Users\\MMID\\.nuget\\packages\\librdkafka.redist\\2.2.0\\librdkafka.redist.2.2.0.nupkg.sha512",
+    "C:\\Users\\MMID\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\MMID\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\MMID\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\MMID\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\MMID\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
